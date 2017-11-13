@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Strategy Crush</string>
+    <string name="question_main">¿Cuál es tu actividad?</string>
+    <string name="question_act">¿Qué parte del cuerpo quieres ejercitar?</string>
+</resources>
